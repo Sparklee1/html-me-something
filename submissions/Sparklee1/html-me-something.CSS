@@ -1,0 +1,46 @@
+header{
+  padding:2.0em;
+}
+  h1{
+    text-align: center;
+  }
+  body{
+    width:100%;
+    max-width: 1524px;
+    background-color:#cc6666;
+    font-family:cursive;
+  }
+ul {
+  padding: 1em;
+  text-align: center;
+  list-style: none;
+
+}
+li{
+  display: inline-block;
+  padding: 2em;
+}
+h2{
+  text-align: center;
+  padding: 1em;
+}
+p{
+  margin: 1cm 1cm 1cm 3cm;
+}
+img {
+  display:block;
+  margin: 0 auto;
+  width:50%;
+  height:50%;
+
+}
+.square{
+  height: 100px;
+  width:100px;
+}
+figcaption{
+  text-align:center;
+}
+footer{
+  margin:0.5;
+}
